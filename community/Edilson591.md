@@ -1,7 +1,7 @@
 # Edilson Luciano dos Santos 
 
 Atualmente Estou em transição de carreira, trabalho como técnico em radiologia, 
-porém sempre fui apaixonado por tecnologia, então comecei a estudar progrmação,
+porém sempre fui apaixonado por tecnologia, então comecei a estudar programação,
 iniciando assim minha jornada nesse mundo maravilhoso.
 
 ### Meus perfis
